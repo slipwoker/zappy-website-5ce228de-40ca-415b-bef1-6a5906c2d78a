@@ -1,0 +1,83 @@
+# ASH Vending machines — Generative Engine Optimization Map
+
+> A B2B vending machine company supplying automated vending solutions tailored for fitness-oriented and corporate environments, including CrossFit gyms, fitness centers, and offices. The brand focuses on convenient, on-site product dispensing for active and busy professionals. The company has its own logo and a defined product lineup, suggesting an established brand identity in the commercial vending space.
+
+---
+
+## Pages
+
+### בית
+https://ash-vending-machines-5ce228de.zappy5.app
+שדרגו את חוויית העובדים והמתאמנים עם מכונות אוטומטיות חדשות למכירה מבית ASH. פתרונות מכירה מותאמים אישית למשרדים ומכוני כושר. קבעו פגישת ייעוץ עוד היום!
+
+### שירותים
+https://ash-vending-machines-5ce228de.zappy5.app/services
+משילוב מכונות קומבו ועד לתחזוקה מלאה – שירותי ASH מבטיחים זמינות מוצר מושלמת לצרכנים פעילים. גלה איך נתאים לך פתרון מפתח שיניב תוצאות מהיום הראשון.
+
+### אודות
+https://ash-vending-machines-5ce228de.zappy5.app/about
+ASH מובילה במתן מענה אוטומטי לסביבות תובעניות. הכירו את החזון שמאחורי מכונות אוטומטיות משופצות וחדשות שמשרתות את המותגים המובילים במשק. בואו להיות חלק מהמהפכה.
+
+### צור קשר
+https://ash-vending-machines-5ce228de.zappy5.app/contact
+מוכנים להציע לעובדים וללקוחות חוויית רכישה מיידית? השאירו פרטים עכשיו ונחזור אליכם עם הצעת מחיר משתלמת למכונות אוטומטיות זולות למכירה בהתאמה אישית.
+
+### תודה רבה - הפנייה התקבלה | ASH מכונות אוטומטיות
+https://ash-vending-machines-5ce228de.zappy5.app/thank-you
+תודה על פנייתך. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי עם כל המידע על מכונות אוטומטיות חדשות למכירה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ash-vending-machines-5ce228de.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ash-vending-machines-5ce228de.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ash-vending-machines-5ce228de.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ash-vending-machines-5ce228de.zappy5.app/contact
+- Endpoint: https://ash-vending-machines-5ce228de.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ASH Vending machines
+A B2B vending machine company supplying automated vending solutions tailored for fitness-oriented and corporate environments, including CrossFit gyms, fitness centers, and offices. The brand focuses on convenient, on-site product dispensing for active and busy professionals. The company has its own logo and a defined product lineup, suggesting an established brand identity in the commercial vending space.
+
+## Target Audience
+- עסקי קרוספיט, חדרי כושר, משרדים ועסקים נוספים
+- עסקי קרוספיט
+- חדרי כושר
+- משרדים ועסקים
+
+## Industry
+Vending Machines
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ash-vending-machines-5ce228de.zappy5.app/sitemap.xml
+- Robots: https://ash-vending-machines-5ce228de.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ash-vending-machines-5ce228de.zappy5.app/llms-full.txt
