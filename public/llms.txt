@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://ash-vending-machines-5ce228de.zappy5.app
+https://example.com
 שדרגו את חוויית העובדים והמתאמנים עם מכונות אוטומטיות חדשות למכירה מבית ASH. פתרונות מכירה מותאמים אישית למשרדים ומכוני כושר. קבעו פגישת ייעוץ עוד היום!
 
 ### שירותים
-https://ash-vending-machines-5ce228de.zappy5.app/services
+https://example.com/services
 משילוב מכונות קומבו ועד לתחזוקה מלאה – שירותי ASH מבטיחים זמינות מוצר מושלמת לצרכנים פעילים. גלה איך נתאים לך פתרון מפתח שיניב תוצאות מהיום הראשון.
 
 ### אודות
-https://ash-vending-machines-5ce228de.zappy5.app/about
+https://example.com/about
 ASH מובילה במתן מענה אוטומטי לסביבות תובעניות. הכירו את החזון שמאחורי מכונות אוטומטיות משופצות וחדשות שמשרתות את המותגים המובילים במשק. בואו להיות חלק מהמהפכה.
 
 ### צור קשר
-https://ash-vending-machines-5ce228de.zappy5.app/contact
+https://example.com/contact
 מוכנים להציע לעובדים וללקוחות חוויית רכישה מיידית? השאירו פרטים עכשיו ונחזור אליכם עם הצעת מחיר משתלמת למכונות אוטומטיות זולות למכירה בהתאמה אישית.
 
 ### תודה רבה - הפנייה התקבלה | ASH מכונות אוטומטיות
-https://ash-vending-machines-5ce228de.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי עם כל המידע על מכונות אוטומטיות חדשות למכירה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ash-vending-machines-5ce228de.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ash-vending-machines-5ce228de.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ash-vending-machines-5ce228de.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://ash-vending-machines-5ce228de.zappy5.app/contact
-- Endpoint: https://ash-vending-machines-5ce228de.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Vending Machines
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ash-vending-machines-5ce228de.zappy5.app/sitemap.xml
-- Robots: https://ash-vending-machines-5ce228de.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ash-vending-machines-5ce228de.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
